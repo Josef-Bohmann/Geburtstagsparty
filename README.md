@@ -1,4 +1,4 @@
 # Geburtstagsparty
 Open HPI Kurs
 
-Repo zum Üben
+Repository zum Üben
